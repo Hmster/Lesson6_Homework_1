@@ -10,6 +10,7 @@ namespace Lesson6_Homework_1
     {
         static void Main(string[] args)
         {
+            //start homework
         }
     }
 }
